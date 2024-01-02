@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently working on Github
+I'm currently studying to become a full stack software developer at Tech Elevator
+I'm looking to hopefully collaborate with some of my peers at Tech Elevator on various projects
+How to reaach me: Via email, text or call
+Fun fact: I love martial Arts specifically boxing
